@@ -56,12 +56,12 @@ http://localhost:4000/api/places?q=tijuana&price_min=50&price_max=5000&rating_mi
 
 ### **Cómo se Usó IA en este proyecto?**
 * Depurar errores en Phoenix y Elixir
-* Optimizar el cruce de datos API-CSV
+* Documentación del proyecto
 
 ### **Tecnologías Utilizadas**
-✅ Python (para el preprocesamiento de los datos y la limpieza del dataset)
-✅ Elixir
-✅ Phoenix Framework
-✅ NimbleCSV (para procesar el CSV)
-✅ HTTPoison (para consumir la API externa)
-✅ Jason (para manejar JSON)
+✅ Python (para el preprocesamiento de los datos y la limpieza del dataset).
+✅ Elixir.
+✅ Phoenix Framework.
+✅ NimbleCSV (para procesar el CSV).
+✅ HTTPoison (para consumir la API externa).
+✅ Jason (para manejar JSON).
