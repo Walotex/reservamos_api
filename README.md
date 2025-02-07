@@ -58,10 +58,13 @@ http://localhost:4000/api/places?q=tijuana&price_min=50&price_max=5000&rating_mi
 * Depurar errores en Phoenix y Elixir
 * Documentación del proyecto
 
+Para más información sobre los prompts y resultados, de click en el siguiente enlace
+https://docs.google.com/document/d/1TDt7VpT7RWXepHY_qwFxBizWBfSY5Ma6VcKnEpfTxFc/edit?usp=sharing
+
 ### **Tecnologías Utilizadas**
-✅ Python (para el preprocesamiento de los datos y la limpieza del dataset)
-✅ Elixir
-✅ Phoenix Framework
-✅ NimbleCSV (para procesar el CSV)
-✅ HTTPoison (para consumir la API externa)
-✅ Jason (para manejar JSON)# reservamos_api
+* Python (para el preprocesamiento de los datos y la limpieza del dataset)
+* Elixir
+* Phoenix Framework
+* NimbleCSV (para procesar el CSV)
+* TPoison (para consumir la API externa)
+* Jason (para manejar JSON)# reservamos_api
